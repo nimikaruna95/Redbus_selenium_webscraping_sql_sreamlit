@@ -39,7 +39,7 @@ Approach:
 
 5.Filtering using Streamlit: Leverage Streamlit to allow users to interact with and filter the data through the application.
 
-Prerequisites:
+6.Prerequisites:
 Ensure you have the following installed before starting:
 - Python
 - Jupyter Notebook
